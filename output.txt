@@ -1,0 +1,5 @@
+Resume Name | Similarity Score (%)
+----------------------------------------
+resume_cybersecurity_analyst.pdf | 8.35%
+resume_data_scientist.pdf | 9.11%
+sample_resume.pdf | 31.99%
