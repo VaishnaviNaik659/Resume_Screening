@@ -42,14 +42,21 @@ streamlit run resume_screening.py
 
 Resume_Screening/
 │
-├── resume_screening.py          # Main Python script for the app
-├── model.py                      # Model training and saving script
-├── requirements.txt              # Required packages
-├── output.txt                    # Sample output file
-├── sample_resume.pdf             # Sample resume for testing
-├── tfidf_model.pkl               # Saved TF-IDF model
-├── Output Images                 # Screenshots of results
-└── README.md                     # Project Documentation
+* resume_screening.py          # Main Python script for the app
+
+* model.py                      # Model training and saving script
+  
+*requirements.txt              # Required packages
+
+* output.txt                    # Sample output file
+
+* sample_resume.pdf             # Sample resume for testing
+
+* tfidf_model.pkl               # Saved TF-IDF model
+
+* Output Images                 # Screenshots of results
+
+* README.md                     # Project Documentation
 
 📚 How to Use
 
