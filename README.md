@@ -41,12 +41,12 @@ streamlit run resume_screening.py
 📁 Project Structure
 
 Resume_Screening/
-│
+
 * resume_screening.py          # Main Python script for the app
 
 * model.py                      # Model training and saving script
   
-*requirements.txt              # Required packages
+* requirements.txt              # Required packages
 
 * output.txt                    # Sample output file
 
